@@ -2,8 +2,8 @@
 <div>
   <div align=center>
     <a href="https://github.com/rafael-lima-vasconcelos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-lima-vasconcelos&theme=merko&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko&card_width=500"    />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafael-lima-vasconcelos&theme=merko&count_private=true"/>
+<!--     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-lima-vasconcelos&langs_count=10&theme=merko&card_width=500"    /> -->
   </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
